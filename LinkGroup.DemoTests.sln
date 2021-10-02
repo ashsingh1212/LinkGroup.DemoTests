@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkGroup.DemoTests", "LinkGroup.DemoTests\LinkGroup.DemoTests.csproj", "{3BADDA7E-DC6E-4C61-8CF4-4BBE78EF4B3C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4CB5C669-9156-4F1F-9EE0-44A3C3D344CB}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BADDA7E-DC6E-4C61-8CF4-4BBE78EF4B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BADDA7E-DC6E-4C61-8CF4-4BBE78EF4B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BADDA7E-DC6E-4C61-8CF4-4BBE78EF4B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BADDA7E-DC6E-4C61-8CF4-4BBE78EF4B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40F54A69-FFDC-49B3-B60A-ADF6C59ADB4A}
+	EndGlobalSection
+EndGlobal
